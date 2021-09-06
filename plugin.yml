@@ -1,0 +1,8 @@
+main: com.venomapps.ua.Main
+name: UA
+version: '1.0.0'
+description: A simple plugin you will be able to make all anvils in your server unbreakable.
+author: Venom Apps
+website: venomapps.com
+prefix: UA
+api-version: 1.13
